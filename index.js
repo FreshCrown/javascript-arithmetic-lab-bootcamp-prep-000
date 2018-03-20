@@ -52,9 +52,9 @@ number /= 5; // 1
 
 
 
-function makeInt(bubble){
-  parseInt(n)
-  return n;
+function makeInt(){
+  parseInt()
+  return 0;
 }
 
 
