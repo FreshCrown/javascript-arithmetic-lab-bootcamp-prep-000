@@ -52,8 +52,8 @@ number /= 5; // 1
 
 
 
-function makeInt(){
-  parseInt()
+function makeInt(n){
+  parseInt(n)
   return 0;
 }
 
