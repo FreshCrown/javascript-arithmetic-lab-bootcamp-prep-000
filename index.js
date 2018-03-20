@@ -53,7 +53,7 @@ number /= 5; // 1
 
 
 function makeInt(bubble){
-  parseInt('2', 10) // 2
+  parseInt(n)
   return n;
 }
 
