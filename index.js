@@ -53,8 +53,7 @@ number /= 5; // 1
 
 
 function makeInt(n){
-  parseInt(n)
-  return 
+  return parseInt(n)
 }
 
 
