@@ -57,7 +57,7 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
-  return parseFloat(NaN);
+  return parseFloat(n);
 }
 
 var number = 10
